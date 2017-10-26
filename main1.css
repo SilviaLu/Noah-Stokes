@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+	
+}
+
+.box_1 { 
+	
+	width: 200px;
+	height: 200px;
+    background: #ee3e64;
+    margin: auto
+}
+
+.box_2 { 
+	width: 200px;
+	height: 200px;
+    background: #44accf;
+    margin: auto
+}
+
+.box_3 { 
+	width: 200px;
+	height: 200px;
+    background: #b7d84b;
+    margin: auto
+}
